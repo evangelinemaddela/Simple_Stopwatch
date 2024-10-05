@@ -1,5 +1,5 @@
-# Simple_stopwatch
-Creating a simple stopwatch using python
+# Simple_Stopwatch
+Creating a simple stopwatch using Python & Tkinter
 
 # Functionality
 1.Creates a stopwatch application using Tkinter.
