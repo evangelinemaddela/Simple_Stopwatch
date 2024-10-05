@@ -1,7 +1,7 @@
 # Simple_Stopwatch
 Creating a simple stopwatch using Python & Tkinter
 
-# Functionality
+## Functionality
 1.Creates a stopwatch application using Tkinter.
 
 2.Displays elapsed time in a label.
@@ -14,7 +14,7 @@ We require Python & 'Tkinter' python library to run this, this package is built-
                                       
                                       import tkinter
 
-# How to run?
+## How to run?
 To run this Python code, you'll need a Python interpreter installed on your computer.
 
 1.Create a new Python file: Save the code you provided in a file with a .py extension (e.g., stopwatch.py).
@@ -23,7 +23,7 @@ To run this Python code, you'll need a Python interpreter installed on your comp
 
 3.Run the script: Type python stopwatch.py and press Enter.
 
-# Author
+## Author
 Evangeline Maddela
 
 Git URL: https://github.com/evangelinemaddela
